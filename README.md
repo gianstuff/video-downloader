@@ -16,6 +16,9 @@ A user-friendly Video Downloader developed using Python, based on [yt-dlp](https
 
 ## Screenshots
 
+![AppScreenshot1](screenshots/1.png)
+![AppScreenshot2](screenshots/2.png)
+
 ---
 
 ## Dependencies
