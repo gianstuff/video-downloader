@@ -21,9 +21,9 @@ A user-friendly Video Downloader developed using Python, based on [yt-dlp](https
 
 ---
 
-## Dependencies
+## Prerequisites
 
-- [Python](https://www.python.org/)
+- [Python 3.8+](https://www.python.org/)
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 - [ffmpeg](https://ffmpeg.org/)
 - [PySide6](https://doc.qt.io/qtforpython-6/)
