@@ -18,7 +18,7 @@ A user-friendly Video Downloader developed using Python, based on [yt-dlp](https
 
 For Windows Users
 
-1. Go to the [Releases](https://github.com/gianstuff/video-downloader/releases) page
+1. Go to the [Releases](https://github.com/gianworks/video-downloader/releases) page
 2. Download the latest .zip file
 3. Extract it and run 'VideoDownloader.exe'
 
